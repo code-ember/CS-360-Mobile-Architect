@@ -21,4 +21,6 @@ I ensured the code was functional and error-free by running and testing the appl
 Designing a mobile app is not an easy task, but using the layout editor in Android Studio helped me create all the layouts for my application more efficiently and effectively, bringing the application to life more easily.
 
 ### In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-The textbook material and the [developer.android.com](https://developer.android.com) website were instrumental to my success in this course. My understanding of the Java programming language and Android Studio helped build my skills, allowing me to create buttons, databases, and objects within the 
+The textbook material and the [developer.android.com](https://developer.android.com) website were instrumental to my success in this course. My understanding of the Java programming language and Android Studio helped build my skills, allowing me to create buttons, databases, and objects within the mobile application.
+
+## CS-360
